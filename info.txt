@@ -1,0 +1,12 @@
+{
+	"Name": "Traditional Chinese Mod",
+	"ID": "traditional chinese mod",
+	"Author": "danny",
+	"Description": "繁體中文模組",
+	"ModVersion": 1,
+	"GameVersion": 2.031,
+	"Date": "13/08/2021",
+	"Dependencies": [],
+	"LanguagePacks": ["lang.js"],
+	"Disabled": 1
+}
